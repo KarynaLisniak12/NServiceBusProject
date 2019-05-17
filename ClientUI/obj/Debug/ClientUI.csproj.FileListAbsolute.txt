@@ -1,0 +1,13 @@
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\bin\Debug\ClientUI.exe.config
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\bin\Debug\ClientUI.exe
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\bin\Debug\ClientUI.pdb
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\bin\Debug\NServiceBus.Core.dll
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\bin\Debug\NServiceBus.Core.pdb
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\bin\Debug\NServiceBus.Core.xml
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\obj\Debug\ClientUI.csprojAssemblyReference.cache
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\obj\Debug\ClientUI.csproj.CoreCompileInputs.cache
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\obj\Debug\ClientUI.csproj.CopyComplete
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\bin\Debug\Messages.dll
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\bin\Debug\Messages.pdb

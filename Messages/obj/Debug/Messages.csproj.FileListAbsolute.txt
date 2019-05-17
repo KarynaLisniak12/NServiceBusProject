@@ -1,0 +1,10 @@
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Messages\bin\Debug\Messages.dll
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Messages\bin\Debug\Messages.pdb
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Messages\bin\Debug\NServiceBus.Core.dll
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Messages\bin\Debug\NServiceBus.Core.pdb
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Messages\bin\Debug\NServiceBus.Core.xml
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Messages\obj\Debug\Messages.csprojAssemblyReference.cache
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Messages\obj\Debug\Messages.csproj.CoreCompileInputs.cache
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Messages\obj\Debug\Messages.csproj.CopyComplete
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Messages\obj\Debug\Messages.dll
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Messages\obj\Debug\Messages.pdb
