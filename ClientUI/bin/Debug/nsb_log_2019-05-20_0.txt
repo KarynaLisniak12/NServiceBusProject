@@ -1,0 +1,30 @@
+﻿2019-05-20 10:13:51.057 INFO  DefaultFactory Logging to 'C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\bin\Debug\' with level Info
+2019-05-20 10:13:51.792 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-17'.
+
+2019-05-20 10:13:52.082 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-05-20 10:14:02.377 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 6d0a60d0-78ec-4b54-97a5-abc5e569e474
+2019-05-20 10:14:02.471 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-05-20 11:10:19.846 INFO  DefaultFactory Logging to 'C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\bin\Debug\' with level Info
+2019-05-20 11:10:20.486 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-17'.
+
+2019-05-20 11:10:20.924 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-05-20 11:10:28.232 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 61080cce-63c1-4d73-acbb-3b3d0e35bfcc
+2019-05-20 11:10:28.310 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-05-20 11:28:08.602 INFO  DefaultFactory Logging to 'C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\bin\Debug\' with level Info
+2019-05-20 11:28:09.285 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-17'.
+
+2019-05-20 11:28:09.599 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-05-20 11:28:41.495 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 23872873-7dc1-4f86-9655-e4c97c86c635
+2019-05-20 11:28:41.573 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-05-20 11:31:54.326 INFO  DefaultFactory Logging to 'C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\bin\Debug\' with level Info
+2019-05-20 11:31:55.779 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-17'.
+
+2019-05-20 11:31:56.013 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-05-20 11:32:17.307 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = d2315bd6-163c-4942-bc56-a06ce54a7a17
+2019-05-20 11:32:17.388 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-05-20 11:37:23.894 INFO  DefaultFactory Logging to 'C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\ClientUI\bin\Debug\' with level Info
+2019-05-20 11:37:24.488 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-17'.
+
+2019-05-20 11:37:24.660 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-05-20 11:37:30.975 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 07519d21-56ec-40b6-a5b7-47065ad1dae8
+2019-05-20 11:37:31.068 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.

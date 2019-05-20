@@ -1,0 +1,20 @@
+﻿2019-05-20 10:13:55.385 INFO  DefaultFactory Logging to 'C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\bin\Debug\' with level Info
+2019-05-20 10:13:55.556 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-17'.
+
+2019-05-20 10:14:02.549 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 6d0a60d0-78ec-4b54-97a5-abc5e569e474
+2019-05-20 11:10:20.658 INFO  DefaultFactory Logging to 'C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\bin\Debug\' with level Info
+2019-05-20 11:10:20.955 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-17'.
+
+2019-05-20 11:10:28.388 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 61080cce-63c1-4d73-acbb-3b3d0e35bfcc
+2019-05-20 11:28:09.503 INFO  DefaultFactory Logging to 'C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\bin\Debug\' with level Info
+2019-05-20 11:28:09.758 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-17'.
+
+2019-05-20 11:28:41.651 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 23872873-7dc1-4f86-9655-e4c97c86c635
+2019-05-20 11:31:55.748 INFO  DefaultFactory Logging to 'C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\bin\Debug\' with level Info
+2019-05-20 11:31:55.998 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-17'.
+
+2019-05-20 11:32:17.466 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = d2315bd6-163c-4942-bc56-a06ce54a7a17
+2019-05-20 11:37:24.363 INFO  DefaultFactory Logging to 'C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\bin\Debug\' with level Info
+2019-05-20 11:37:24.582 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-17'.
+
+2019-05-20 11:37:31.146 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 07519d21-56ec-40b6-a5b7-47065ad1dae8

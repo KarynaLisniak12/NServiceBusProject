@@ -1,0 +1,13 @@
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\bin\Debug\Shipping.exe.config
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\bin\Debug\Shipping.exe
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\bin\Debug\Shipping.pdb
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\bin\Debug\Messages.dll
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\bin\Debug\NServiceBus.Core.dll
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\bin\Debug\Messages.pdb
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\bin\Debug\NServiceBus.Core.pdb
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\bin\Debug\NServiceBus.Core.xml
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\obj\Debug\Shipping.csprojAssemblyReference.cache
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\obj\Debug\Shipping.csproj.CoreCompileInputs.cache
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\obj\Debug\Shipping.csproj.CopyComplete
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\obj\Debug\Shipping.exe
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\obj\Debug\Shipping.pdb

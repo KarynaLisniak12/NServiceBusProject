@@ -1,0 +1,13 @@
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Billing\bin\Debug\Billing.exe.config
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Billing\bin\Debug\Billing.exe
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Billing\bin\Debug\Billing.pdb
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Billing\bin\Debug\Messages.dll
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Billing\bin\Debug\NServiceBus.Core.dll
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Billing\bin\Debug\Messages.pdb
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Billing\bin\Debug\NServiceBus.Core.pdb
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Billing\bin\Debug\NServiceBus.Core.xml
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Billing\obj\Debug\Billing.csprojAssemblyReference.cache
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Billing\obj\Debug\Billing.csproj.CoreCompileInputs.cache
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Billing\obj\Debug\Billing.csproj.CopyComplete
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Billing\obj\Debug\Billing.exe
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Billing\obj\Debug\Billing.pdb

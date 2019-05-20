@@ -1,0 +1,13 @@
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\bin\Debug\Sales.exe.config
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\bin\Debug\Sales.exe
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\bin\Debug\Sales.pdb
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\bin\Debug\Messages.dll
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\bin\Debug\NServiceBus.Core.dll
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\bin\Debug\Messages.pdb
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\bin\Debug\NServiceBus.Core.pdb
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\bin\Debug\NServiceBus.Core.xml
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\obj\Debug\Sales.csprojAssemblyReference.cache
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\obj\Debug\Sales.csproj.CoreCompileInputs.cache
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\obj\Debug\Sales.csproj.CopyComplete
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\obj\Debug\Sales.exe
+C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Sales\obj\Debug\Sales.pdb
