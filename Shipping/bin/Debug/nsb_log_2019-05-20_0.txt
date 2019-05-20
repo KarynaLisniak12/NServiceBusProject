@@ -1260,3 +1260,27 @@
 2019-05-20 11:37:25.019 INFO  Shipping.OrderPlacedHandler Received OrderBilled, OrderId = d2315bd6-163c-4942-bc56-a06ce54a7a17 - Billing Handler
 2019-05-20 11:37:31.229 INFO  Shipping.OrderPlacedHandler Received OrderPlaced, OrderId = 07519d21-56ec-40b6-a5b7-47065ad1dae8 - Order place Handler
 2019-05-20 11:37:31.252 INFO  Shipping.OrderPlacedHandler Received OrderBilled, OrderId = 07519d21-56ec-40b6-a5b7-47065ad1dae8 - Billing Handler
+2019-05-20 12:01:28.901 INFO  DefaultFactory Logging to 'C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\bin\Debug\' with level Info
+2019-05-20 12:01:29.338 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-17'.
+
+2019-05-20 12:01:47.866 INFO  DefaultFactory Logging to 'C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\bin\Debug\' with level Info
+2019-05-20 12:01:48.131 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-17'.
+
+2019-05-20 14:32:56.243 INFO  DefaultFactory Logging to 'C:\Users\karyn\OneDrive\Рабочий стол\RetailDemo\Shipping\bin\Debug\' with level Info
+2019-05-20 14:32:56.552 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-17'.
+
+2019-05-20 14:32:57.973 INFO  Shipping.OrderPlacedHandler Received OrderPlaced, OrderId = 935fd7d5-6e41-4bda-ae20-fc0f385f5707 - Order place Handler
+2019-05-20 14:32:57.996 INFO  Shipping.ShippingPolicy Received OrderPlaced, OrderId = 935fd7d5-6e41-4bda-ae20-fc0f385f5707
+2019-05-20 14:32:58.032 INFO  Shipping.OrderPlacedHandler Received OrderPlaced, OrderId = e4c83cf2-377d-495d-aad1-78b82e7031c3 - Order place Handler
+2019-05-20 14:32:58.046 INFO  Shipping.ShippingPolicy Received OrderPlaced, OrderId = e4c83cf2-377d-495d-aad1-78b82e7031c3
+2019-05-20 14:32:58.065 INFO  Shipping.OrderPlacedHandler Received OrderBilled, OrderId = 935fd7d5-6e41-4bda-ae20-fc0f385f5707 - Billing Handler
+2019-05-20 14:32:58.092 INFO  Shipping.ShippingPolicy Received OrderBilled, OrderId = 935fd7d5-6e41-4bda-ae20-fc0f385f5707
+2019-05-20 14:32:58.170 INFO  Shipping.OrderPlacedHandler Received OrderBilled, OrderId = e4c83cf2-377d-495d-aad1-78b82e7031c3 - Billing Handler
+2019-05-20 14:32:58.185 INFO  Shipping.ShippingPolicy Received OrderBilled, OrderId = e4c83cf2-377d-495d-aad1-78b82e7031c3
+2019-05-20 14:32:58.212 INFO  Shipping.ShipOrderHandler Order [935fd7d5-6e41-4bda-ae20-fc0f385f5707] - Successfully shipped.
+2019-05-20 14:32:58.224 INFO  Shipping.ShipOrderHandler Order [e4c83cf2-377d-495d-aad1-78b82e7031c3] - Successfully shipped.
+2019-05-20 14:33:04.212 INFO  Shipping.OrderPlacedHandler Received OrderPlaced, OrderId = 726792f9-3454-4a2e-998b-c7a197be6aa5 - Order place Handler
+2019-05-20 14:33:04.223 INFO  Shipping.ShippingPolicy Received OrderPlaced, OrderId = 726792f9-3454-4a2e-998b-c7a197be6aa5
+2019-05-20 14:33:04.241 INFO  Shipping.OrderPlacedHandler Received OrderBilled, OrderId = 726792f9-3454-4a2e-998b-c7a197be6aa5 - Billing Handler
+2019-05-20 14:33:04.252 INFO  Shipping.ShippingPolicy Received OrderBilled, OrderId = 726792f9-3454-4a2e-998b-c7a197be6aa5
+2019-05-20 14:33:04.286 INFO  Shipping.ShipOrderHandler Order [726792f9-3454-4a2e-998b-c7a197be6aa5] - Successfully shipped.
